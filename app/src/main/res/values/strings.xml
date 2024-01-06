@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WisdomHeritage</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="username">用户名</string>
+    <string name="password">用户密码</string>
+    <string name="loginbtn">登录</string>
+    <string name="registerbtn">注册</string>
+    <string name="btnabout">作者信息</string>
+    <string name="heritage_image">非遗项目图片</string>
+    <string-array name="preferences_array">
+        <item>教育</item>
+        <item>娱乐</item>
+        <item>交友</item>
+    </string-array>
+    <string name="password_hide_text">*******</string>
+    <string name="setting">设置</string>
+    <string name="help_text">帮助</string>
+    <string name="help_phone_hint">客服热线：66666</string>
+    <string name="ok">提交</string>
+    <string name="addtitle">帖子标题</string>
+    <string name="addcontent">内容</string>
+</resources>
+
